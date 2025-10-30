@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Clone this repository
+1. Clone this repository into VSC
 
 2. Create a .env file with the following content
 
